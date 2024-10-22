@@ -1,9 +1,7 @@
 ## Food Ordering App
 
 ### Features:
-
 ---
-
 ##### Here's features included in this project
 
 - Add to cart functionality
